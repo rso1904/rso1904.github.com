@@ -1,0 +1,26 @@
+title:  Tech blog
+tagline:  Development Note
+author:
+  name: 'Seongwan Ryu'
+# twitter:  paululele 
+
+# Change to true for Disqus comments
+disqus:
+  comments: true
+  disqus_shortname: 'rso1904-github-tech'
+
+google-ID: 'UA-80213386-1'
+
+menu:
+- {name: 'About', url: 'about.html'}
+- {name: 'Writing', url: 'writing.html'}
+- {name: 'Contact', url: 'contact.html'}
+
+social:
+- {icon: 'github', link: 'https://www.github.com/rso1904'}
+#- {icon: 'twitter', link: 'https://twitter.com/paululele'}
+- {icon: 'instagram', link: 'https://instagram.com/seongwan_ryu'}
+- {icon: 'linkedin', link: 'http://www.linkedin.com/in/seongwan-ryu-686154b5/'}
+- {icon: 'envelope', link: 'mailto:rsw1904@gmail.com'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer

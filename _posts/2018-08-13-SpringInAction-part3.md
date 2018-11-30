@@ -1,15 +1,3 @@
----
-layout: post
-title: "Spring - Advanced wiring"
-author: "rso1904"
-categories: spring
-tags: [documentation,sample]
-image:
-  credit: Death to Stock Photo
-  creditlink: ""
----
-
-
 Spring in Action Chapter 3 - Advanced wiring
 ========================
 

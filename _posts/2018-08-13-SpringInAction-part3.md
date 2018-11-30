@@ -5,8 +5,6 @@ author: "rso1904"
 categories: spring
 tags: [documentation,sample]
 image:
-  feature: 
-  teaser: 
   credit: Death to Stock Photo
   creditlink: ""
 ---

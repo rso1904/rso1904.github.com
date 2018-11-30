@@ -18,9 +18,9 @@ menu:
 
 social:
 - {icon: 'github', link: 'https://www.github.com/rso1904'}
-#- {icon: 'twitter', link: 'https://twitter.com/paululele'}
+# - {icon: 'twitter', link: 'https://twitter.com/paululele'}
 - {icon: 'instagram', link: 'https://instagram.com/seongwan_ryu'}
-- {icon: 'linkedin', link: 'http://www.linkedin.com/in/seongwan-ryu-686154b5/'}
+# - {icon: 'linkedin', link: 'http://www.linkedin.com/'}
 - {icon: 'envelope', link: 'mailto:rsw1904@gmail.com'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
